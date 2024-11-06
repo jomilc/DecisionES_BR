@@ -1,0 +1,8 @@
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'DecisionES BR 2025'
+theme = 'hugo-book'
+
+#TESTE
+##Teste
